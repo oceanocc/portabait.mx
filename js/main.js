@@ -41,7 +41,7 @@ $(function()
             nombre_completo: nombre_completo,
             telefono: telefono,
             operadora: operadora,
-            servicio: 'bait-porta-mexico-prepago'
+            servicio: 'Prepago Bait'
         };
         
         const submitBtn = $(this).find('button[type="submit"]');
