@@ -78,7 +78,7 @@ $(function()
             //$(this).trigger('reset');
 
             const mensaje = encodeURIComponent(`Hola, soy ${nombre_completo} y me gustaría cambiarme a Bait conservando mi número ${telefono}. Mi operadora actual es ${operadora}.`);
-            const whatsappUrl = `https://wa.me/529995122716?text=${mensaje}`;
+            const whatsappUrl = `https://wa.me/529992621531?text=${mensaje}`;
             window.open(whatsappUrl, '_blank');
             
         }
